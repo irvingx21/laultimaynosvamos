@@ -27,7 +27,7 @@ public class Nivel1c8 {
         int valor3=0;
         int menor=0;
         Scanner entrada=new Scanner(System.in);
-        
+        System.out.println("porfin salio");
         System.out.println("ingrese el primer valor ==> ");
         valor1=entrada.nextInt();
         System.out.println("ingrese el segundo valor ==> ");
